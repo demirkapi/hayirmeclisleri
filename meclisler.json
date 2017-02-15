@@ -2,66 +2,119 @@
   {
     "meclis": "Avcılar",
     "fblink": "https://www.facebook.com/HAYIR-Avc%C4%B1lar-243326659412039/",
-    "logo": "meclisler/160/avcilar.png"
+    "logo": "meclisler/160/avcilar.png",
+	"status": ""  
   },
   
   {
    	"meclis": "Beşiktaş",
     "fblink": "https://www.facebook.com/HayirBskts",
-    "logo": "meclisler/160/besiktas.png"
+    "logo": "meclisler/160/besiktas.png",
+	  "status": "" 
   },
 {
    	"meclis": "Bakırköy",
     "fblink": "https://www.facebook.com/Hay%C4%B1r-Bak%C4%B1rk%C3%B6y-179526949201617/",
-    "logo": "meclisler/160/bakirkoy.png"
+    "logo": "meclisler/160/bakirkoy.png",
+	"status": "" 
   },
 {
    	"meclis": "Beyoğlu",
     "fblink": "https://www.facebook.com/HAYIRBeyoglu/",
-    "logo": "meclisler/160/beyoglu.png"
+    "logo": "meclisler/160/beyoglu.png",
+	"status": "" 
   },
 {
    	"meclis": "Darıca",
     "fblink": "https://www.facebook.com/hayirdarica",
-    "logo": "meclisler/160/darica.png"
+    "logo": "meclisler/160/darica.png",
+	"status": "" 
   },
 {
    	"meclis": "Kartal",
     "fblink": "https://www.facebook.com/HAYIRKartal",
-    "logo": "meclisler/160/kartal.png"
+    "logo": "meclisler/160/kartal.png",
+	"status": "" 
   },
 {
    	"meclis": "Güngören",
     "fblink": "https://www.facebook.com/Gungorendemokrasi/",
-    "logo": "meclisler/160/gungoren.png"
+    "logo": "meclisler/160/gungoren.png",
+	"status": "" 
   },
 {
    	"meclis": "Üsküdar",
     "fblink": "https://www.facebook.com/hayiruskudar",
-    "logo": "meclisler/160/uskudar.png"
+    "logo": "meclisler/160/uskudar.png",
+	"status": "" 
   },
 {
    	"meclis": "Sancaktepe",
     "fblink": "https://www.facebook.com/Sancaktepe-HAYIR-1896606743909830/",
-    "logo": "meclisler/160/sancaktepe.png"
+    "logo": "meclisler/160/sancaktepe.png",
+	"status": "" 
   },
 {
    	"meclis": "Sarıyer",
     "fblink": "https://www.facebook.com/HAYIRSariyer",
-    "logo": "meclisler/160/sariyer.png"
+    "logo": "meclisler/160/sariyer.png",
+	"status": "" 
   },{
    	"meclis": "Şişli",
     "fblink": "https://www.facebook.com/hayirsisli",
-    "logo": "meclisler/160/sisli.png"
+    "logo": "meclisler/160/sisli.png",
+	  "status": "" 
   },
 {
    	"meclis": "Zümrütevler",
     "fblink": "https://www.facebook.com/hayirzumrutevler/",
-    "logo": "meclisler/160/zumrutevler.png"
+    "logo": "meclisler/160/zumrutevler.png",
+	"status": "" 
   },	
+	
+	{
+   	"meclis": "Adalar",
+    "fblink": "",
+    "logo": "meclisler/160/adalar.png",
+	"status": "Yakında" 
+  },	
+		{
+   	"meclis": "Sakarya",
+    "fblink": "",
+    "logo": "meclisler/160/sakarya.png",
+	"status": "Yakında" 
+  },	
+		{
+   	"meclis": "Adana",
+    "fblink": "",
+    "logo": "meclisler/160/adana.png",
+	"status": "Yakında" 
+  },	
+	
+		{
+   	"meclis": "Kağıthane",
+    "fblink": "",
+    "logo": "meclisler/160/kagithane.png",
+	"status": "Yakında" 
+  },
+	
+		{
+   	"meclis": "Artvin",
+    "fblink": "",
+    "logo": "meclisler/160/artvin.png",
+	"status": "Yakında" 
+  },	
+		{
+   	"meclis": "Denizli",
+    "fblink": "",
+    "logo": "meclisler/160/denizli.png",
+	"status": "Yakında" 
+  },	
+	
 	{
     "meclis": "Kadıköy",
     "fblink": "https://www.facebook.com/HAYIRKadikoy",
-    "logo": "meclisler/160/kadikoy.png"
+    "logo": "meclisler/160/kadikoy.png",
+		"status": "" 
   }
 ]

@@ -29,3 +29,5 @@ a:hover {
 .imgbolge { padding: 5px; opacity: 0.8;}
 
 .imgbolge:hover { opacity: 1;} 
+
+.imgbolgepasif { padding: 5px; opacity: 0.6;}

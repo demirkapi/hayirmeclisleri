@@ -66,10 +66,22 @@
 		<div class="col-md-8">
 			
 			<!--- Meclis Logoları --->
-			<span ng-repeat="eleman in meclisler | orderBy: 'meclis' ">
+			<span ng-repeat="eleman in meclisler | orderBy: 'meclis' " ng-if="eleman.status!=='Yakında'">
 			<a href="{{eleman.fblink}}" target="_blank"><img src="{{eleman.logo}}" alt="{{eleman.meclis}}" class="imgbolge img-fluid rounded"></a>
 			</span>
 			<!--- Meclis Logoları Son --->
+			<br>
+			<br>
+			<h3>YAKINDA</h3>
+			<br>
+			
+			<!--- Meclis Logoları --->
+			<span ng-repeat="eleman in meclisler | orderBy: 'meclis' " ng-if="eleman.status=='Yakında'">
+			<img src="{{eleman.logo}}" alt="{{eleman.meclis}}" class="imgbolge img-fluid rounded">
+			</span>
+			<!--- Meclis Logoları Son --->
+			<br><br><br><br>
+			
 			
 		</div>
     </div>
