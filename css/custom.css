@@ -1,0 +1,31 @@
+html,
+body {
+  height: 100%;
+	background: url("../img/geziden.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #222;
+}
+body {
+  	color: #fff;
+  	text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+	padding-top: 5rem;
+	font-family: 'Exo 2', sans-serif;
+}
+
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+.navbar-nav > li > a {padding-top:2px !important; padding-bottom:2px !important;}
+.navbar {height:40px !important}
+
+.imgbolge { padding: 5px; opacity: 0.8;}
+
+.imgbolge:hover { opacity: 1;} 
