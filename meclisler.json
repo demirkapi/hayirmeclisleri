@@ -16,6 +16,11 @@
     "logo": "meclisler/160/bakirkoy.png"
   },
 {
+   	"meclis": "Beyoğlu",
+    "fblink": "https://www.facebook.com/HAYIRBeyoglu/",
+    "logo": "meclisler/160/beyoglu.png"
+  },
+{
    	"meclis": "Darıca",
     "fblink": "https://www.facebook.com/hayirdarica",
     "logo": "meclisler/160/darica.png"
