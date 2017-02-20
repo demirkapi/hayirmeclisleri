@@ -74,7 +74,7 @@
 	
 	{
    	"meclis": "Adalar",
-    "fblink": "https://www.facebook.com/events/392465177784131/",
+    "fblink": "https://www.facebook.com/HAYIRAdalar",
     "logo": "meclisler/160/adalar.png",
 	"status": "" 
   },	
@@ -105,6 +105,34 @@
 	"status": "Yakında" 
   },	
 		{
+   	"meclis": "Denizli",
+    "fblink": "",
+    "logo": "meclisler/160/denizli.png",
+	"status": "Yakında" 
+  },	
+	
+			{
+   	"meclis": "Bahçelievler",
+    "fblink": "https://www.facebook.com/bahcelievlerhayirmeclisleri",
+    "logo": "meclisler/160/bahcelievler.png",
+	"status": "" 
+  },	
+	
+			{
+   	"meclis": "Fatih",
+    "fblink": "https://www.facebook.com/hayirolafatih",
+    "logo": "meclisler/160/fatih.png",
+	"status": "" 
+  },	
+	
+			{
+   	"meclis": "Maltepe",
+    "fblink": "https://www.facebook.com/HAYIRMaltepe",
+    "logo": "meclisler/160/maltepe.png",
+	"status": "" 
+  },	
+	
+			{
    	"meclis": "Denizli",
     "fblink": "",
     "logo": "meclisler/160/denizli.png",
