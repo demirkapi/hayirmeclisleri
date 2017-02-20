@@ -16,7 +16,8 @@
     <link href="css/custom.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
 	
-	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+   	<script src="js/angular-locale_tr-tr.js"></script>
     <script>
 		var meclisApp = angular.module('meclisApp', []);
 		meclisApp.controller('meclisCtrl', function ($scope, $http){
@@ -27,7 +28,9 @@
 	</script>
 </head>
 <body ng-controller="meclisCtrl">
-	<nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top">
+
+   	
+   	<nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top">
     	<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         	<span class="navbar-toggler-icon"></span>
       	</button>
@@ -83,9 +86,7 @@
 			<img src="{{eleman.logo}}" alt="{{eleman.meclis}}" class="imgbolge img-fluid rounded">
 			</span>
 			<!--- Meclis Logoları Son --->
-			<br><br>
-			<h3>HAYIR'lı Buluşmalar Takvimi</h3>
-			<img src="img/hayirtakvim20170203.jpg" alt="HAYIR Meclis Takvimi" class="img-fluid rounded">
+			
 			<br><br>
 			<br><br>
 			
