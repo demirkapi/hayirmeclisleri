@@ -1,0 +1,27 @@
+[
+	{
+		"meclis": "Kadıköy",
+		"etkinlik": "Hayır Kadıköy Buluşması",
+		"tarih": "19/02/2017",
+		"saat": "15:30",
+		"yer": "Yeldeğirmeni Sanat Merkezi";
+		"link": "",
+		"haritaLink" : "",
+		"logo": "",
+		"status": "",
+		"sortOrder": ""
+  	},
+  
+ 	{
+		"meclis": "Beşiktaş",
+		"etkinlik": "Hayır Beşiktaş Buluşması",
+		"tarih": "19/02/2017",
+		"saat": "15:30",
+		"yer": "Beşiktaş Sahil";
+		"link": "",
+		"haritaLink" : "",
+		"logo": "",
+		"status": "",
+		"sortOrder": ""
+	}
+]
