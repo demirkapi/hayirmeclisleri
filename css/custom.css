@@ -22,6 +22,11 @@ a:hover {
   color: #fff;
 }
 
+h1, h2, h3, h4, h5
+{
+  font-family: Roboto;
+}
+
 .navbar-nav > li > a {padding-top:2px !important; padding-bottom:2px !important;}
 .navbar {height:45px !important}
 
