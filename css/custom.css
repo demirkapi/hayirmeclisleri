@@ -15,7 +15,6 @@ body {
 	font-family: 'Exo 2', sans-serif;
 }
 
-
 /* Links */
 a,
 a:focus,
@@ -24,7 +23,7 @@ a:hover {
 }
 
 .navbar-nav > li > a {padding-top:2px !important; padding-bottom:2px !important;}
-.navbar {height:40px !important}
+.navbar {height:45px !important}
 
 .imgbolge { padding: 5px; opacity: 0.8;}
 
