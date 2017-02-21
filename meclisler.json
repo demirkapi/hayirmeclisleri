@@ -138,7 +138,12 @@
     "logo": "meclisler/160/esenyurt.png",
 	"status": "" 
   },	
-	
+			{
+   	"meclis": "Çerkezköy",
+    "fblink": "",
+    "logo": "meclisler/160/cerkezkoy.png",
+	"status": "Yakında" 
+  },	
 	
 	{
     "meclis": "Kadıköy",
