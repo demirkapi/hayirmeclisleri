@@ -27,9 +27,9 @@ h1, h2, h3, h4, h5
   font-family: 'Exo 2', sans-serif;
 }
 
-h1 { font-size: 24 px; }
-h2 { font-size: 18 px; }
-h3 { font-size: 16 px; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.2rem; }
 
 .navbar-nav > li > a {padding-top:2px !important; padding-bottom:2px !important;}
 .navbar {height:45px !important}
