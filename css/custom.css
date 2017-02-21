@@ -24,8 +24,12 @@ a:hover {
 
 h1, h2, h3, h4, h5
 {
-  font-family: Roboto;
+  font-family: 'Exo 2', sans-serif;
 }
+
+h1 { font-size: 24 px; }
+h2 { font-size: 18 px; }
+h3 { font-size: 16 px; }
 
 .navbar-nav > li > a {padding-top:2px !important; padding-bottom:2px !important;}
 .navbar {height:45px !important}
