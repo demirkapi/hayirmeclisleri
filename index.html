@@ -54,7 +54,7 @@
 		</div>
 	</nav>
 
-	<div class="container" ng-app="meclisApp" ng-controller="meclisCtrl">
+	<div class="container" data-ng-app="meclisApp" data-ng-controller="meclisCtrl">
 		<div class="row">
 			<div class="col-md-4">
 				<h1 class="gizle hidden hidden-xs-up">HAYIR Meclisleri - http://tercihhayir.org</h1>
@@ -66,13 +66,13 @@
 				</h3>
 			</div>
 			<div class="col-md-8">			
-				<span ng-repeat="eleman in meclisler | orderBy: 'meclis' :false:localeSensitiveComparator " ng-if="eleman.status!=='Yakında'">
+				<span data-ng-repeat="eleman in meclisler | orderBy: 'meclis' :false:localeSensitiveComparator " data-ng-if="eleman.status!=='Yakında'">
 				<a href="{{eleman.fblink}}" target="_blank"><img src="{{eleman.logo}}" alt="{{eleman.meclis}}" class="imgbolge img-fluid rounded"></a>
 				</span>
 				<br><br>
 				<h3>YAKINDA</h3>
 				<br>			
-				<span ng-repeat="eleman in meclisler | orderBy: 'meclis' " ng-if="eleman.status=='Yakında'">
+				<span data-ng-repeat="eleman in meclisler | orderBy: 'meclis' " data-ng-if="eleman.status=='Yakında'">
 				<img src="{{eleman.logo}}" alt="{{eleman.meclis}}" class="imgbolge img-fluid rounded">
 				</span>
 				
