@@ -145,10 +145,22 @@
 	"status": "" 
   },	
 			{
+   	"meclis": "Dudullu",
+    "fblink": "",
+    "logo": "meclisler/160/dudullu.png",
+	"status": "Yakında" 
+  },
+	{
    	"meclis": "Çerkezköy",
     "fblink": "",
     "logo": "meclisler/160/cerkezkoy.png",
 	"status": "Yakında" 
+  },	
+				{
+   	"meclis": "Çekmeköy",
+    "fblink": "https://www.facebook.com/pg/cekmekoyHAYIRmeclisi/community/",
+    "logo": "meclisler/160/cekmekoy.png",
+	"status": "" 
   },	
 	
 	{
