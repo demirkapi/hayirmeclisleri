@@ -31,6 +31,8 @@ h1 { font-size: 2rem; }
 h2 { font-size: 1.55rem; }
 h3 { font-size: 1.3rem; }
 
+.navbar-nav {background-color: #292b2c !important;}
+
 .navbar-nav > li > a {padding-top:2px !important; padding-bottom:2px !important;}
 .navbar {height:45px !important}
 
