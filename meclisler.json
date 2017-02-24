@@ -157,7 +157,20 @@
 	"status": "Yakında" 
   },	
 		
+		{
+   	"meclis": "İkitelli",
+    "fblink": "https://www.facebook.com/Ikitelli-hayir-dayanışması-1216802085079071/",
+    "logo": "meclisler/160/ikitelli.png",
+	"status": "" 
+  },
 	
+			{
+   	"meclis": "GOP",
+    "fblink": "",
+    "logo": "meclisler/160/gop.png",
+	"status": "Yakında" 
+  },	
+		
 	{
     "meclis": "Kadıköy",
     "fblink": "https://www.facebook.com/HAYIRKadikoy",
