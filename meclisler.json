@@ -177,15 +177,29 @@
     "logo": "meclisler/160/ikitelli.png",
 	"status": "" 
   },
-	
+
 		{
    	"meclis": "Esenler",
     "fblink": "https://www.facebook.com/esenlerhayir/",
     "logo": "meclisler/160/esenler.png",
 	"status": "" 
   },
-	
-		{
+
+  {
+    "meclis": "Sultanbeyli",
+    "fblink": "https://www.facebook.com/HAYIR-Sultanbeyli-965436530223693",
+    "logo": "meclisler/160/sultanbeyli.png",
+    "status": ""
+  },
+
+  {
+    "meclis": "Sultangazi",
+    "fblink": "https://www.facebook.com/Sultangazi-Hay%C4%B1r-Platformu-409440986070404",
+    "logo": "meclisler/160/sultangazi.png",
+    "status": ""
+  },
+
+  {
    	"meclis": "Datça",
     "fblink": "https://www.facebook.com/groups/389892534711561",
     "logo": "meclisler/160/datca.png",
@@ -200,7 +214,7 @@
   },
 	
 	
-			{
+    {
    	"meclis": "GOP",
     "fblink": "",
     "logo": "meclisler/160/gop.png",
