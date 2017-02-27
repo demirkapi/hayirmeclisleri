@@ -122,9 +122,23 @@
     "fblink": "https://www.facebook.com/bahcelievlerhayirmeclisleri",
     "logo": "meclisler/160/bahcelievler.png",
 	"status": "" 
-  },	
-	
-			{
+  },
+
+  {
+    "meclis": "Beylikdüzü",
+    "fblink": "https://www.facebook.com/hayirbeylikduzu",
+    "logo": "meclisler/160/beylikduzu.png",
+    "status": ""
+  },
+
+  {
+    "meclis": "Okmeydanı",
+    "fblink": "https://www.facebook.com/Okmhayirmeclisi",
+    "logo": "meclisler/160/okmeydani.png",
+    "status": ""
+  },
+
+  {
    	"meclis": "Fatih",
     "fblink": "https://www.facebook.com/hayirolafatih",
     "logo": "meclisler/160/fatih.png",
