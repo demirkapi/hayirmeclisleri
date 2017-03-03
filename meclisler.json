@@ -205,8 +205,22 @@
     "logo": "meclisler/160/datca.png",
 	"status": "" 
   },
-	
-		{
+
+  {
+    "meclis": "Hisarüstü",
+    "fblink": "https://www.facebook.com/HayirHisarustu/",
+    "logo": "meclisler/160/hisarustu.png",
+    "status": ""
+  },
+
+  {
+    "meclis": "Zeytinburnu",
+    "fblink": "https://www.facebook.com/HayirZeytinburnu/",
+    "logo": "meclisler/160/zeytinburnu.png",
+    "status": ""
+  },
+
+  {
    	"meclis": "Bodrum",
     "fblink": "https://www.facebook.com/hayirbodrum",
     "logo": "meclisler/160/bodrum.png",
