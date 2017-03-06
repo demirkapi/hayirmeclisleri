@@ -233,9 +233,24 @@
     "fblink": "",
     "logo": "meclisler/160/gop.png",
 	"status": "Yakında" 
-  },	
-		
-	{
+  },
+
+  {
+    "meclis": "Beykoz",
+    "fblink": "",
+    "logo": "meclisler/160/beykoz.png",
+    "status": "Yakında"
+  },
+
+  {
+    "meclis": "Yenimahalle",
+    "fblink": "",
+    "logo": "meclisler/160/yenimahalle.png",
+    "status": "Yakında"
+  },
+
+
+  {
     "meclis": "Kadıköy",
     "fblink": "https://www.facebook.com/HAYIRKadikoy",
     "logo": "meclisler/160/kadikoy.png",
