@@ -66,10 +66,15 @@
 				</h3>
 			</div>
 			<div class="col-md-8">			
-				<span data-ng-repeat="eleman in meclisler | orderBy: 'meclis' :false:localeSensitiveComparator " data-ng-if="eleman.status!=='Yakında'">
+				<span data-ng-repeat="eleman in meclisler | orderBy: 'meclis' :false:localeSensitiveComparator " data-ng-if="eleman.status!=='Yakında' && eleman.status!=='Üniversite'">
 				<a data-ng-href="{{eleman.fblink}}" target="_blank"><img data-ng-src="{{eleman.logo}}" src="file://null" alt="{{eleman.meclis}}" class="imgbolge img-fluid rounded"></a>
 				</span>
 				<br><br>
+				<h4>ÜNİVERSİTE</h4>
+				<br>
+				<span data-ng-repeat="eleman in meclisler | orderBy: 'meclis' " data-ng-if="eleman.status=='Üniversite'">
+				<a data-ng-href="{{eleman.fblink}}" target="_blank"><img data-ng-src="{{eleman.logo}}" src="file://null" alt="{{eleman.meclis}}" class="imgbolge img-fluid rounded"></a>
+				</span>
 				<h4>YAKINDA</h4>
 				<br>			
 				<span data-ng-repeat="eleman in meclisler | orderBy: 'meclis' " data-ng-if="eleman.status=='Yakında'">
