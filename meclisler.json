@@ -103,8 +103,15 @@
     "logo": "meclisler/160/kagithane.png",
 	"status": ""
   },
-	
-		{
+
+  {
+    "meclis": "Bağcılar",
+    "fblink": "https://www.facebook.com/bagcilarhayir/?fref=ts",
+    "logo": "meclisler/160/bagcilar.png",
+    "status": ""
+  },
+
+  {
    	"meclis": "Artvin",
     "fblink": "",
     "logo": "meclisler/160/artvin.png",
